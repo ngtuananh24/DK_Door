@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_database_url" translatable="false">https://noticeandroid-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">107716650827</string>
+    <string name="google_api_key" translatable="false">AIzaSyCeSkYKjseMNxY6YLhjKZ97Jh3lo1S7Y_M</string>
+    <string name="google_app_id" translatable="false">1:107716650827:android:1dab0bc46aace4ffddeace</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCeSkYKjseMNxY6YLhjKZ97Jh3lo1S7Y_M</string>
+    <string name="google_storage_bucket" translatable="false">noticeandroid.firebasestorage.app</string>
+    <string name="project_id" translatable="false">noticeandroid</string>
+</resources>
