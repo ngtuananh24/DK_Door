@@ -43,4 +43,7 @@ dependencies {
     androidTestImplementation(libs.espresso.core)
     implementation ("org.eclipse.paho:org.eclipse.paho.client.mqttv3:1.1.0")
     implementation ("org.eclipse.paho:org.eclipse.paho.android.service:1.1.1")
+    implementation ("com.google.android.material:material:1.4.0")
+    implementation ("androidx.appcompat:appcompat:1.3.1")
+    implementation ("androidx.core:core:1.6.0")
 }
